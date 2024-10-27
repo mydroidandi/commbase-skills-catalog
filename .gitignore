@@ -5,3 +5,6 @@ __pycache__/
 # directory when copying from the original repository
 frontend/*
 !frontend/.gitkeep
+
+# Ignore DBeaver project files
+.project
