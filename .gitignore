@@ -1,3 +1,7 @@
-# Ignore the contents of the "bundles/commbase-skills-catalog/frontend" directory
+# Ignore __pycache__ when copying from the original repository
+__pycache__/
+
+# Ignore the contents of the "bundles/commbase-skills-catalog/frontend"
+# directory when copying from the original repository
 frontend/*
 !frontend/.gitkeep
